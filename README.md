@@ -311,4 +311,4 @@ Symbols
 | :small_red_triangle_down: `:small_red_triangle_down:` | :shipit: `:shipit:` |
 
 
-Lista tirada do diretorio: https://gist.githubusercontent.com/rxaviers/7360908/raw/0c0f6869d780ce6d8958ada4f82a8b798bac98e5/gistfile1.md
+Lista tirada do diretorio: :link: https://gist.github.com/rxaviers/7360908
